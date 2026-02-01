@@ -1,4 +1,4 @@
-const arr = [1, 2, 3, -10, -100];
+const arr:Number[] = [1, 2, 3, -10, -100];
 
 function getMaxMin(arr:number[]){
     let smallestNum = Number.POSITIVE_INFINITY;
